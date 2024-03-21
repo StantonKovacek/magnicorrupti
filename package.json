@@ -1,0 +1,30 @@
+{
+  "name": "magnicorrupti",
+  "version": "1.0.0",
+  "description": "Friendly WASM & JS Proof of Work algorithms for CAPTCHA",
+  "author": "RogerHauck",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/StantonKovacek/magnicorrupti.git"
+  },
+  "devDependencies": {
+    "@as-pect/cli": "^4.0.0",
+    "@babel/cli": "^7.10.4",
+    "@babel/preset-env": "^7.10.4",
+    "@types/jest": "^27.0.2",
+    "@types/node": "^14.0.11",
+    "@typescript-eslint/eslint-plugin": "^2.21.0",
+    "@typescript-eslint/parser": "^2.21.0",
+    "assemblyscript": "^0.16.1",
+    "eslint": "^8.1.0",
+    "fast-async": "^6.3.8",
+    "jest": "^27.3.1",
+    "rimraf": "^3.0.2",
+    "rollup": "^2.21.0",
+    "rollup-plugin-typescript2": "^0.27.1",
+    "ts-jest": "^27.0.7",
+    "typescript": "^3.6.3",
+    "wasmwrap": "^1.0.0"
+  },
+  "homepage": "https://github.com/StantonKovacek/magnicorrupti.git"
+}
